@@ -64,7 +64,38 @@
       "title": "Building REST APIs with FastAPI",
       "description": "Learn to build REST APIs using FastAPI: routing, request/response models, and running a server.",
       "path": "assignments/fastapi-rest",
-      "dueDate": "2026-06-01"
+      "dueDate": "2026-06-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "full-stack-python-web-app",
+      "title": "Full-Stack Python Web App",
+      "description": "Build a FastAPI backend and connect it to a simple HTML/JavaScript frontend.",
+      "path": "assignments/full-stack-python-web-app",
+      "dueDate": "2026-06-15",
+      "attachments": [
+        {
+          "name": "Backend Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Frontend Page",
+          "file": "frontend.html",
+          "type": "html"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "text"
+        }
+      ]
     }
   ]
 }
